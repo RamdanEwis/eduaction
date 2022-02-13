@@ -1,0 +1,19 @@
+#database structure
+-users
+    -teacher
+        -id
+        -username
+        -password
+        -fullname
+        -Email
+        -
+    -student
+
+-courses
+
+#application
+
+    -dashboard
+        -insert courses
+
+

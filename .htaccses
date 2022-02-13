@@ -1,0 +1,10 @@
+#prevent directory listing
+option -indexes
+
+
+# disable open files
+
+<FilesMatch "/.(php,html)$" >
+order allow,deny 
+Deny fromall
+</FilesMatch>

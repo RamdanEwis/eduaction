@@ -1,0 +1,31 @@
+
+/*Startlogin form*/
+
+.login_admin {
+    width: 300px;
+    margin: 100px auto;
+}
+
+h1 {
+    color: #6e6e6e;
+    font-weight: bold;
+}
+
+.login_admin h4 {
+    color: #888;
+}
+
+.login_admin input {
+    margin: 10px;
+}
+
+.login_admin input[type="submit"] {
+    background-color: #1877f2;
+}
+
+.login_admin .form-control {
+    background-color: #ffffff80;
+}
+
+
+/*EndloginFrorm*/
